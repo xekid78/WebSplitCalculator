@@ -2,7 +2,7 @@
 割り勘電卓
 
 ## 実行結果
-[【ここをクリック】]()
+[【ここをクリック】](https://xekid78.github.io/WebSplitCalculator/)
   
 ## 開発環境
 | 開発ツール |  |
